@@ -1,0 +1,66 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+
+.menu{
+    background: rgb(34, 36, 36);
+    padding: 5px;
+    padding-left: 50px;
+    margin:0;
+}
+
+.menu ul{
+    list-style: none;
+}
+
+.menu ul li{
+    display:inline-block;
+    padding-left: 10px;
+}
+
+.menu ul li a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.main-image{
+    margin:0px;
+    padding:0px;
+    width:100%;
+    height: 300px;   
+}
+
+.info{
+    padding:20px;
+    display:grid;
+    grid-template-columns: auto auto auto;
+    gap: 70px;
+}
+.card{
+    background: lightgray;
+    padding-bottom: 20px;
+}
+
+.card a{
+    display:block;
+    text-align: center;
+    text-decoration: none;
+    padding-top:10px;
+    padding-bottom: 10px;
+    width:100%;
+    color:white;
+    border:none;
+    background: rgb(34, 36, 36);
+    cursor: pointer;
+    font-weight: bold;
+
+}
+.card p{
+    padding:20px;
+}
+.card img{
+    width:100%;
+    height:200px;
+}
