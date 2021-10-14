@@ -4,7 +4,7 @@ body{
 }
 
 .menu{
-    background: rgb(135, 102, 135);
+    background: rgb(34, 36, 36);
     padding: 5px;
     padding-left: 50px;
     margin:0;
@@ -20,7 +20,7 @@ body{
 }
 
 .menu ul li a{
-    color: rgb(247, 228, 228);
+    color: white;
     font-weight: bold;
     text-decoration: none;
 }
@@ -47,12 +47,11 @@ body{
     display:block;
     text-align: center;
     text-decoration: none;
-    padding-top:10px;
-    padding-bottom: 10px;
+    padding:10px
     width:100%;
     color:white;
     border:none;
-    background: rgb(135, 102, 135);
+    background: rgb(34, 36, 36);
     cursor: pointer;
     font-weight: bold;
 
