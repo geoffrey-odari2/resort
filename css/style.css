@@ -5,7 +5,7 @@ body{
 }
 
 .menu{
-    background: rgb(34, 36, 36);
+    background: rgb(70, 42, 58);
     padding: 5px;
     padding-left: 50px;
     margin:0;
@@ -59,7 +59,7 @@ body{
     width:100%;
     color:white;
     border:none;
-    background: rgb(34, 36, 36);
+    background: rgb(70, 42, 58);
     cursor: pointer;
     font-weight: bold;
 
